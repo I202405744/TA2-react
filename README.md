@@ -1,2 +1,4 @@
 # Laboratorios pratcios con React
-La
+## Primera App en React con Codespace
+Iniciar mi cuenta con github
+crear nuevo repositorio
